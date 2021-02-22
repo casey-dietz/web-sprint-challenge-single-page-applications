@@ -205,5 +205,6 @@ const PizzaForm = () => {
     </form>
     )}
 
+    console.log("hello")
 
 export default PizzaForm
